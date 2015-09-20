@@ -1,0 +1,16 @@
+{
+  "name": "File",
+  "source-url": "git://github.com/shoichikaji/perl6-file.git",
+  "perl": "v6",
+  "provides": {
+    "File": "lib/File.pm6"
+  },
+  "depends": [
+    
+  ],
+  "description": "",
+  "version": "*",
+  "authors": [
+    "Shoichi Kaji"
+  ]
+}
